@@ -48,6 +48,19 @@ python app.py
 ```
 
 
+## Output Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/output1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/output2.png)
+
+### Screenshot 3
+![Screenshot 3](screenshots/output3.png)
+
+### Screenshot 4
+![Screenshot 4](screenshots/output4.png)
 
 ## Example Questions
 
