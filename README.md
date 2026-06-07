@@ -47,11 +47,7 @@ python sample_data.py
 python app.py
 ```
 
-Open:
 
-```text
-http://127.0.0.1:5000
-```
 
 ## Example Questions
 
@@ -61,13 +57,6 @@ http://127.0.0.1:5000
 * What is the average salary?
 * Count employees in each department
 
-## Future Improvements
-
-* Gemini API integration
-* Query history
-* SQL explanations
-* Multi-table support
-* User authentication
 
 ## Author
 
