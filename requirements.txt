@@ -1,3 +1,5 @@
 Flask
 pandas
 google-generativeai
+gunicorn
+python-dotenv
