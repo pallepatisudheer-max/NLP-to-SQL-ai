@@ -62,6 +62,9 @@ python app.py
 ### Screenshot 4
 ![Screenshot 4](screenshots/output4.jpg)
 
+## Live demo link 
+https://nlp-to-sql-ai-8os3.onrender.com/
+
 ## Example Questions
 
 * Show all employees
